@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/delivery"
+        android:icon="@drawable/delivery_icon"
+        android:id="@+id/delivery_bu"
+        />
+    <item android:title="@string/dining"
+        android:icon="@drawable/dining_icon"
+        android:id="@+id/dining_bu"
+        />
+    <item android:title="@string/money"
+        android:icon="@drawable/money_icon"
+        android:id="@+id/money_bu"
+        />
+
+</menu>
